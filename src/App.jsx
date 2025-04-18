@@ -168,9 +168,9 @@ const App = () => {
         <section id="contact" className="text-center mb-16">
           <h2 className="text-4xl font-bold text-green-400 mb-6">Contact Us</h2>
           <div className="text-lg space-y-4 text-gray-300">
-            <p>Email: <a href="mailto:contact@hackernova.org" className="text-blue-400 hover:underline">info@vpndogitalservice.com</a></p>
+            <p>Email: <a href="mailto:contact@hackernova.org" className="text-blue-400 hover:underline">info@vpndigitalservice.com</a></p>
             <p>Phone: <a href="tel:+1234567890" className="text-blue-400 hover:underline">+91 84320 03083</a></p>
-            <p>Address: 123 Cyber Street, Net City, Cyberspace</p>
+            <p>Address: AECC, Anadheri, Mumbai</p>
             <div className="mt-8">
               <a
                 href="https://chat.whatsapp.com/EUkxAbQtwhmI56RLEkvFS5"
